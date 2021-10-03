@@ -9,15 +9,22 @@ body {
   color: #757575;
 }
 .text-h1 {
-  background: #2f303a;
-  color: #ffffff;
+  color: #2f303a;
+  font-weight: 900;
+}
+.text-h2 {
+  font-style: normal;
+  font-weight: bold;
+  color: #212121;
 }
 .item {
+  font-weight: normal;
   color: #212121;
 }
 .item-foto {
   color: #212121;
   font-size: 500;
+  font-weight: normal;
 }
 .contacts {
   color: #757575;
@@ -30,4 +37,5 @@ body {
 }
 .button {
   cursor: pointer;
+  background: #2196f3;
 }
