@@ -25,6 +25,9 @@ body {
 .contacts:hover {
   color: #2196f3;
 }
+.contacts:focus {
+  color: #f32121;
+}
 .button {
   cursor: pointer;
 }
