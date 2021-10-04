@@ -3,7 +3,10 @@ body {
   color: #757575;
 }
 .logo {
-  color: black;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  color: #2196f3;
 }
 .edge-text {
   font-style: normal;
@@ -68,15 +71,28 @@ body {
 .contacts:focus {
   color: #f32121;
 }
-.button {
-  cursor: pointer;
-  background: #ffffff;
+.contacts-mail :hover,
+:active {
+  color: #2196f3;
 }
+.contacts-mail:focus {
+  color: #f32121;
+}
+
+.contacts-phone:hover,
+:active {
+  color: #2196f3;
+}
+.contacts-phone:focus {
+  color: #f32121;
+}
+
 .nav-menu:hover {
   color: #ffffff;
   background: #2196f3;
 }
 .nav-menu {
+  cursor: pointer;
   position: absolute;
   width: 73px;
   height: 38px;
