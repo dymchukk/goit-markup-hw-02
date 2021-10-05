@@ -1,102 +1,74 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #757575;
+  padding-top: 0;
+  height: 100%;
+  background-color: #ffffff;
 }
 .logo {
-  font-weight: bold;
-  font-size: 26px;
-  line-height: 31px;
-  color: #2196f3;
+  color: #000000;
 }
-.edge-text {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 12px * 2;
-  color: #757575;
-}
-.solution {
-  color: #2f303a;
-  font-weight: 900;
-}
-.work-text {
-  font-style: bold;
-  font-size: 36px;
-  line-height: 21px * 2;
-  font-weight: bold;
-  color: #212121;
-}
-.edge {
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 12px * 2;
-  color: #757575;
-}
-.edge-title {
-  font-style: bold;
-  font-weight: normal;
-  font-size: 14px;
-  line-height: 12px * 2;
-  color: #212121;
-}
-.edge-text {
-  font-style: normal;
-  font-size: 14px;
-  line-height: 12px * 2;
-}
-.team {
-  color: #757575;
-}
-.team-item {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 19px;
-  color: #212121;
-}
-.team-text {
-  font-size: 400;
-  font-weight: normal;
+.logo-list {
   color: #757575;
 }
 .contacts {
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 8px * 2;
   color: #757575;
 }
 .contacts:hover,
-:active {
+:focus {
   color: #2196f3;
 }
-.contacts:focus {
-  color: #f32121;
+.contacts-email {
+  color: #757575;
 }
-.contacts-mail :hover,
-:active {
+.contacts-email:hover,
+:focus {
   color: #2196f3;
 }
-.contacts-mail:focus {
-  color: #f32121;
+.contacts-phone {
+  color: #757575;
 }
-
 .contacts-phone:hover,
-:active {
+:focus {
   color: #2196f3;
 }
-.contacts-phone:focus {
-  color: #f32121;
+.solution {
 }
-
-.nav-menu:hover {
-  color: #ffffff;
-  background: #2196f3;
+.hero-button {
 }
-.nav-menu {
-  cursor: pointer;
-  position: absolute;
-  width: 73px;
-  height: 38px;
-  left: 495px;
-  top: 174px;
-  background: #2196f3;
+.edge {
+}
+.edge-title {
+}
+.edge-text {
+}
+.work-text {
+}
+.team {
+}
+.team-foto {
+}
+.team-item {
+}
+.team-text {
+}
+. .nav {
+}
+.nav-list {
+}
+.nav-list-item {
+}
+.section {
+}
+.nav-button {
+}
+.nav-button-menu {
+}
+.project {
+}
+.project-item {
+}
+.item {
+}
+.text {
 }
