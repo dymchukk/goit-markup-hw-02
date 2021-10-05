@@ -6,69 +6,165 @@ body {
   background-color: #ffffff;
 }
 .logo {
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
   color: #000000;
 }
 .logo-list {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
   color: #757575;
 }
-.contacts {
+.contacts,
+.contacts:hover {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
   color: #757575;
 }
-.contacts:hover,
-:focus {
+.contacts:focus {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
   color: #2196f3;
 }
-.contacts-email {
+.contacts-email,
+.contacts-email:hover {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
   color: #757575;
-}
-.contacts-email:hover,
-:focus {
   color: #2196f3;
 }
-.contacts-phone {
+.contacts-phone,
+.contacts-phone:hover {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2196f3;
   color: #757575;
 }
-.contacts-phone:hover,
-:focus {
+.contacts-phone:focus {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
   color: #2196f3;
 }
 .solution {
+  background: #2f303a;
+  color: #ffffff;
 }
-.hero-button {
+.hero-button,
+.hero-button:hover {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  background: #2196f3;
+  color: #ffffff;
+  cursor: pointer;
 }
 .edge {
 }
 .edge-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
 }
 .edge-text {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
 }
 .work-text {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  color: #212121;
+}
+.work-our {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 1061px;
 }
 .team {
+  color: #212121;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
 }
 .team-foto {
+  position: absolute;
+  width: 270px;
+  height: 260px;
+  left: 515px;
+  top: 1635px;
 }
 .team-item {
+  color: #212121;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
 }
 .team-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
 }
-. .nav {
+.nav {
 }
 .nav-list {
 }
 .nav-list-item {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
 }
+
 .section {
 }
 .nav-button {
 }
-.nav-button-menu {
+.nav-button-menu,
+.nav-button-menu:hover {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212121;
+  color: #2196f3;
+  cursor: pointer;
 }
 .project {
 }
 .project-item {
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 262px;
 }
 .item {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+  color: #212121;
 }
 .text {
+  color: #757575;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
 }
