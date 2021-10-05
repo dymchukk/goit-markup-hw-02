@@ -1,78 +1,76 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #757575;
-  padding-top: 0;
-  height: 100%;
   background-color: #ffffff;
 }
 .logo {
   font-family: Raleway;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 15px*2;
   color: #000000;
 }
 .logo-list {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8px*2;
   color: #757575;
 }
 .contacts {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8px*2;
 }
 .contacts:hover {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8px*2;
   color: #757575;
 }
 .contacts:focus {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8px*2;
   color: #2196f3;
 }
 .contacts-address {
   color: #757575;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 12px*2;
 }
 .contacts-address:hover {
   font-size: 14px;
-  line-height: 24px;
+  line-height: 12px*2;
   color: #2196f3;
 }
 .contacts-email {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8px*2;
   color: #757575;
 }
 .contacts-email:hover {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8px*2;
   color: #2196f3;
 }
 .contacts-phone {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8px*2;
   color: #757575;
 }
 .contacts-phone:hover {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8px*2;
   color: #2196f3;
 }
 .contacts-phone:focus {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8px*2;
   color: #2196f3;
 }
 .solution {
@@ -82,13 +80,13 @@ body {
 .hero-buttom {
   font-weight: bold;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 15px*2;
   color: #ffffff;
 }
 .hero-buttom:hover {
   font-weight: bold;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 15px*2;
   color: #2196f3;
   cursor: pointer;
 }
@@ -98,32 +96,28 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8px*2;
   color: #212121;
 }
 .edge-text {
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 12px*2;
 }
 .work-text {
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 21px*2;
   color: #212121;
 }
 .work-our {
-  position: absolute;
-  width: 370px;
-  height: 294px;
-  left: 215px;
-  top: 1061px;
+  
 }
 .team {
   color: #212121;
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 21px*2;
 }
 .team-foto {
 }
@@ -131,12 +125,12 @@ body {
   color: #212121;
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 10px*2;
 }
 .team-text {
   color: #757575;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 10*2px;
 }
 .nav {
 }
@@ -146,7 +140,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 8*2px;
   color: #2196f3;
 }
 
@@ -154,23 +148,26 @@ body {
 }
 .nav-button {
 }
-.nav-button-menu,
+.nav-button-menu{
+    font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 13px*2;
+  color: #212121
+  cursor:pointer;
+}
 .nav-button-menu:hover {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
-  color: #212121;
+  line-height: 13px*2;
   color: #2196f3;
   cursor: pointer;
 }
 .project {
 }
 .project-item {
-  width: 370px;
-  height: 294px;
-  left: 215px;
-  top: 262px;
+  
 }
 .item {
   font-style: normal;
@@ -182,5 +179,5 @@ body {
 .text {
   color: #757575;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 15px * 2;
 }
