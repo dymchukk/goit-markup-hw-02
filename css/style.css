@@ -191,7 +191,7 @@ address {
   border-radius: 4px;
 }
 .nav-button:hover {
-  background-color: var(--accent-color);
+  background-color: var(--main-bg-color);
 }
 
 .nav-button-item {
