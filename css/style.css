@@ -29,7 +29,6 @@ address {
   line-height: 1.19;
   color: var(--accent-color);
   font-family: 'Raleway', normal;
-  font-weight: 700;
 }
 .logo-st {
   color: var(--main-bg-color);
